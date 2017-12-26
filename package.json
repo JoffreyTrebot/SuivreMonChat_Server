@@ -12,6 +12,8 @@
   "author": "Joffrey Trebot",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "mysql": "^2.15.0",
+    "sequelize": "^3.30.4"
   }
 }
