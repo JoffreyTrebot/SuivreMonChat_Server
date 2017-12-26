@@ -1,5 +1,3 @@
-import { request } from "http";
-
 // Imports
 var express = require('express');
 var usersCtrl = require('./routes/usersCtrl');

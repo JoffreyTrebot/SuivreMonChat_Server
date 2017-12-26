@@ -1,5 +1,3 @@
-import { userInfo } from 'os';
-
 // Imports
 var bcrypt = require('bcrypt');
 var jwt = require('jsonwebtoken');
