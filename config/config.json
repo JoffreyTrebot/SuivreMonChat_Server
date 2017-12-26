@@ -1,21 +1,21 @@
 {
   "development": {
     "username": "root",
-    "password": "f7eef7df743f0f0af815bd376d1d5a791d0e9ce3",
+    "password": "trebotjoffrey",
     "database": "database_development",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
     "username": "root",
-    "password": "f7eef7df743f0f0af815bd376d1d5a791d0e9ce3",
+    "password": "trebotjoffrey",
     "database": "database_test",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "production": {
     "username": "root",
-    "password": "f7eef7df743f0f0af815bd376d1d5a791d0e9ce3",
+    "password": "trebotjoffrey",
     "database": "database_production",
     "host": "127.0.0.1",
     "dialect": "mysql"
