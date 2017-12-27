@@ -16,7 +16,6 @@
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
     "jsonwebtoken": "^8.1.0",
-    "mongodb": "^3.0.1",
     "mysql": "^2.15.0",
     "sequelize": "^3.30.4"
   }
