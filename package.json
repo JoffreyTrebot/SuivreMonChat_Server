@@ -1,22 +1,25 @@
 {
-  "name": "smc_server",
+  "name": "retro-server",
   "version": "1.0.0",
-  "description": "Serveur HTPP pour API REST",
+  "description": "Serveur HTTP pour API REST",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "server.http.api.rest"
+    "server",
+    "http",
+    "api",
+    "rest"
   ],
-  "author": "Joffrey Trebot",
+  "author": "Dimitri Dessus",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^1.0.3",
     "body-parser": "^1.18.2",
-    "express": "^4.16.2",
+    "express": "^4.15.4",
     "jsonwebtoken": "^8.1.0",
     "mysql": "^2.15.0",
-    "sequelize": "^3.31.1"
+    "sequelize": "^3.30.4"
   }
 }
