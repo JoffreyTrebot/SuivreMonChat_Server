@@ -13,7 +13,7 @@ module.exports = {
         var password = req.body.password;
         var numgps = req.body.numgps;
 
-        if (email == null || username == null || password == null){
+        if (email == null || username == null || password == null || numgps == null){
             return res.status(400).json({ 'error': ' missing parameters'});
         }
 
